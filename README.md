@@ -1,7 +1,7 @@
 # ic-05
 ic-05 - Intro to JavaScript
 
-Link to GitHub Pages: [HERE](git@github.com:DS4200-S23-Class/ic-05-adri-somya.git)
+Link to GitHub Pages: [HERE](https://ds4200-s23-class.github.io/ic-05-adri-somya/)
 
 ## Purpose
 
